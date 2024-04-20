@@ -12,7 +12,7 @@ import Links from "./components/Links";
 import TermsCondition from "./components/TermsCondition";
 
 const NewsLetter = lazy(() => import("./components/NewsLetter/NewsLetter"));
-const Layout1 = lazy(() => import("./components/EventPage/Layouts/Layout1"));
+const Layout1 = lazy(()=> import("./components/EventPage/Layouts/Layout1"));
 const AboutUsPage = lazy(() => import("./components/Aboutus"));
 const Contact = lazy(() => import("./components/Contact"));
 const Layout2 = lazy(() => import("./components/EventPage/Layouts/Layout2"));
