@@ -1,0 +1,13 @@
+.ad-top-hidden {
+  height: 0;
+  opacity: 0;
+  transition-property: height;
+  transition-duration: 300ms;
+  transition-timing-function: ease;
+}
+
+.ad-top-container {
+  height: 90px;
+  width: 728px;
+  opacity: 1;
+}

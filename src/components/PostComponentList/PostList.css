@@ -1,0 +1,11 @@
+.card-summary {
+  font-size: 14px;
+}
+
+.card-heading-top {
+  font-weight: 1000;
+}
+
+.card-heading-top:hover {
+  color: rgb(186, 0, 0);
+}

@@ -1,0 +1,17 @@
+.News__label {
+  border-left: 4px solid #fe4f51;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  padding: 5px;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+  .breaking-news__content{
+    font-size: 11px !important;
+  }
+}

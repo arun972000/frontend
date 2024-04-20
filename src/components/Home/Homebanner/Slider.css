@@ -1,0 +1,21 @@
+.homebanner_v2 .swiper {
+  aspect-ratio: 16/9;
+}
+
+.homebanner_v2 .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.homebanner_v2 .swiper-slide .image__slider {
+  aspect-ratio: 16/9;
+  width: 600px;
+}
+
+.homebanner_v2 .swiper-3d .swiper-slide-shadow {
+  background: none !important;
+}
